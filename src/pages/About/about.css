@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.design-0 {
+    display: flex;
+    flex-direction: column;
+}
+.design-1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.design-2 {
+    font-weight: bold;
+    padding-right:2px;
+}
+
+.design-3 {
+    padding-right: 2px;
+}
